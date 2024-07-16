@@ -1,1 +1,3 @@
-# Datos-Bakery-Ordering-System-VB
+# Admin password
+Username: Admin
+Password: admin1234.
